@@ -253,8 +253,8 @@ def script_select():
 
 def main():
     # 改变当前工作目录
-    data_file_path = "C:\\baiduTB\\BaiduSyncdisk\\workspace\\workspace for py\\YCproject\\update\\"
-    os.chdir(data_file_path)
+    # data_file_path = "C:\\baiduTB\\BaiduSyncdisk\\workspace\\workspace for py\\YCproject\\update\\"
+    # os.chdir(data_file_path)
     check_date_file()
     script_select()
 
